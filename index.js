@@ -1,3 +1,7 @@
+let userTab = document.querySelector("[data-userWeather]");
+let searchTab = document.querySelector("[data-searchWeather]");
+const userContainer = document.querySelector(".weather-conatiner");
+
 
 const grantAccessContainer = document.querySelector(".grant-location-container");
 const searchForm = document.querySelector("[data-searchFrom]");
